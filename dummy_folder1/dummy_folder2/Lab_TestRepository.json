@@ -13,22 +13,22 @@
         "toolboxRoot": "#Task_SingleCP_DotsReversal"
     },
     {
-		"name": "Lab_Matlab_Control",
-		"type": "git",
+	"name": "Lab_Matlab_Control",
+	"type": "git",
         "flavor": "v1.0",
-		"url": "https://github.com/TheGoldLab/Lab_Matlab_Control.git"
+	"url": "https://github.com/TheGoldLab/Lab_Matlab_Control.git"
     },
     {
-		"name": "Lab_Matlab_Utilities",
-		"type": "include"
+	"name": "Lab_Matlab_Utilities",
+	"type": "include"
     },
     {
-		"name": "mgl",
-		"type": "git",
-		"url": "https://github.com/justingardner/mgl.git"
+	"name": "mgl",
+	"type": "git",
+	"url": "https://github.com/justingardner/mgl.git"
     },
     {  
-		"name": "mQUESTPlus",
-		"type": "include"
+	"name": "mQUESTPlus",
+	"type": "include"
     }
 ]
